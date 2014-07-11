@@ -1,0 +1,20 @@
+mode: set
+github.com/marconi/byteslego/bencode.go:10.44,12.2 1 1
+github.com/marconi/byteslego/bencode.go:14.43,16.2 1 1
+github.com/marconi/byteslego/bencode.go:18.61,20.22 2 1
+github.com/marconi/byteslego/bencode.go:83.2,83.55 1 1
+github.com/marconi/byteslego/bencode.go:20.22,22.19 2 1
+github.com/marconi/byteslego/bencode.go:23.3,31.5 1 1
+github.com/marconi/byteslego/bencode.go:32.3,40.5 1 1
+github.com/marconi/byteslego/bencode.go:41.3,49.5 1 1
+github.com/marconi/byteslego/bencode.go:50.3,53.28 3 1
+github.com/marconi/byteslego/bencode.go:64.4,71.5 1 1
+github.com/marconi/byteslego/bencode.go:72.3,80.5 1 1
+github.com/marconi/byteslego/bencode.go:53.28,62.5 1 1
+github.com/marconi/byteslego/bencode.go:86.52,88.22 2 1
+github.com/marconi/byteslego/bencode.go:100.2,100.55 1 1
+github.com/marconi/byteslego/bencode.go:88.22,89.19 1 1
+github.com/marconi/byteslego/bencode.go:90.3,91.51 1 1
+github.com/marconi/byteslego/bencode.go:92.3,93.55 1 1
+github.com/marconi/byteslego/bencode.go:94.3,95.59 1 1
+github.com/marconi/byteslego/bencode.go:96.3,97.68 1 1
